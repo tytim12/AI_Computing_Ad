@@ -8,4 +8,6 @@ DNN based 推荐系统：
    4. GBDT结果进入DNN单元
    5. 最后FM结果和DNN单元结果共同经过输出单元（sigmoid）
 
-![image-20200319233408609](C:\Users\tytim\AppData\Roaming\Typora\typora-user-images\image-20200319233408609.png)
+
+
+![DNN模型图](/DNN模型图.jpg)
